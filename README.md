@@ -1,6 +1,6 @@
 # focus-tab
 
-Hack to improve focus disabling alt-tab in OSX
+Hack to improve focus by disabling alt-tab in OSX
 
 ![Screenshot](https://dl.dropboxusercontent.com/u/8178/focus.gif)
 
