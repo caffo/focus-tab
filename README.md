@@ -13,7 +13,9 @@ Hack to improve focus by disabling alt-tab in OSX
 ## Setup
 
 * Install workflow in alfred
-* Add contents of private.xml into your KeyRema4Macbook private.xml file and reload it. More information about private.xml [here](https://pqrs.org/macosx/keyremap4macbook/xml.html.en).
+* Add contents of private.xml into your KeyRema4Macbook private.xml file and reload it. 
+
+More information about private.xml [here](https://pqrs.org/macosx/keyremap4macbook/xml.html.en).
 
 ## Usage
 
