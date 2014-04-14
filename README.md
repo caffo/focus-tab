@@ -1,4 +1,4 @@
-# focus-alt-tab
+# focus-tab
 
 Hack to improve focus disabling alt-tab in OSX
 
