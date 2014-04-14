@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<root>
+	<item>
+		<name>Cmd+Tab to Shift+Cmd+Tab</name>
+		<identifier>private.cmd_tab_to_shift_cmd_tab</identifier>
+		<autogen>
+			__KeyToKey__ 
+			KeyCode::TAB, VK_COMMAND | ModifierFlag::NONE, 
+			KeyCode::V, ModifierFlag::OPTION_L
+		</autogen>
+	  </item>
+</.dbfseventsd>
