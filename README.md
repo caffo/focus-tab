@@ -17,4 +17,4 @@ Hack to improve focus by disabling alt-tab in OSX
 
 ## Usage
 
-toggle alt-tab functionality by activate alfred and issuing 'focus'.
+Toggle alt-tab functionality by activate alfred and issuing 'focus'.
