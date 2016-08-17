@@ -19,8 +19,8 @@ Hack to improve focus by disabling alt-tab in OSX
 
 ### More info
 
-![Profiles](https://dl.dropboxusercontent.com/spa/6f6p31rqk1cfe43/4kaqk_3x.png)
 ![Enabled feature](https://dl.dropboxusercontent.com/spa/6f6p31rqk1cfe43/kzqb96nw.png)
+![Profiles](https://dl.dropboxusercontent.com/spa/6f6p31rqk1cfe43/4kaqk_3x.png)
 
 * More information about private.xml [here](https://pqrs.org/macosx/keyremap4macbook/xml.html.en)
 * More about multiple profiles [here](https://pqrs.org/osx/karabiner/document.html.en#profiles)
