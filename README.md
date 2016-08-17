@@ -1,3 +1,4 @@
+![icon](https://dl.dropboxusercontent.com/u/8178/focus-icon.png)
 # focus-tab
 
 Hack to improve focus by disabling alt-tab in OSX
@@ -24,4 +25,4 @@ More about multiple profiles [here](https://pqrs.org/osx/karabiner/document.html
 
 ## Usage
 
-Toggle alt-tab functionality by activate alfred and issuing 'focus'.
+Toggle alt-tab functionality by activating alfred, typing 'focus' and pressing enter.
