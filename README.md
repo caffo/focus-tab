@@ -34,3 +34,4 @@ Toggle alt-tab functionality by activating alfred, typing 'focus' and pressing e
 * Don't use it all the time, or your brain will start finding ways to work around it.
 * Use alfred to assign shortcuts for applications you planning to use while in alt-focus. I use `option+a` for Emacs and `option+s` for my browser, then I just use these to switch between apps.
 * If you really need to switch to another app, use alfred to quickly raise the application window.
+* Put the applications you planning to use in full-screen mode.
